@@ -1,0 +1,16 @@
+  208  ls
+  209  files
+  210  cd files/
+  211  ;s
+  212  ls
+  213  fastas
+  214  cd fastas
+  215  cd ../
+  216  cd../
+  217  cd
+  218  cat $HISTFILE
+  219  echo $HISTFILE
+  220  zsh history
+  221  /Users/pfb2024/.zsh_sessions/C767B164-5D3C-480F-A7C6-C6E73FB4FD4E.historynew
+  222  cat /Users/pfb2024/.zsh_sessions/C767B164-5D3C-480F-A7C6-C6E73FB4FD4E.historynew
+  223  history
