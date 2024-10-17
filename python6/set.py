@@ -5,4 +5,5 @@ print('Diffab',A - B)
 print('Diffba',B - A)
 print('Union', A | B)
 print('intersection', A & B)
+print('symmtric', A ^ B)
 
