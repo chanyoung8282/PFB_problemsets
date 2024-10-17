@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import sys
-number = int(sys.argv[1])
+number = float(sys.argv[1])
 
 if number > 0:
 	print('Positive')
@@ -19,4 +19,3 @@ elif number == 0:
 
 else:
 	print('Negative')
-
